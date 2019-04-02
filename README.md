@@ -34,7 +34,7 @@ To use the mail template, the **CSS should be placed inline** instead of in the 
 
 This can be done by online tools such as <a href="https://htmlemail.io/inline/">Responsive Email CSS Inliner</a>.
 
-The mail template shown is an example in its most minimal form.
+The mail template shown is an example in its most minimal form. The mail template is in the dutch language.
 
 The mail template has the following structure:
 
@@ -52,3 +52,5 @@ To show how the mail template could work in specific applications, the following
 
 * Email with login link to login to websites of the City of Ghent
 * Email that a user gets when a request is submitted to be able to enter the low-emission zone of the City of Ghent
+
+ The examples included are in the dutch language.
