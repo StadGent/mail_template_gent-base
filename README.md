@@ -1,6 +1,6 @@
 # Mail template Gent Base
 
-This mail template is used for system emails sent from websites or apps of the City of Ghent. The mail template follows the corporate identity for the City of Ghent.
+This mail template is used for system emails sent from websites or apps of the City of Ghent. The mail template follows the corporate identity of the City of Ghent.
 
 ## When to use this mail template
 
